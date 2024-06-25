@@ -1,0 +1,14 @@
+luffy,4
+aadhi,5
+Aadhi,4
+Anish,4
+0,4
+Jith,4
+Anish,4.00
+san,4.00
+san,3.00
+san,4.00
+maaddy,4.00
+anish,4.00
+kamal,4.00
+san,4.00
